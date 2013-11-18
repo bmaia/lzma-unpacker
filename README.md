@@ -11,7 +11,7 @@ Tested with the following Cable Modems:
   - Webstar DPC2203
   
 #Prerequisites:
-    [Binwalk] (https://code.google.com/p/binwalk/)
+- [Binwalk](https://code.google.com/p/binwalk/)
 
 #Screenshots
 
